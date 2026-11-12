@@ -435,7 +435,7 @@ hr{
 /*Contacto*/
 
 #contacto {
-  background-image: url('../img/fondos/contacto-rio.webp');
+  background-image:  linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/fondos/contacto-rio.webp');
     min-height: 20;
     background-size: cover;
     background-position: center;
